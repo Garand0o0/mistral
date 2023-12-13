@@ -6,6 +6,13 @@ tags:
 inference:
   parameters:
     temperature: 0.7
+widget:
+  - text: "[INST] You are a pirate chatbot who always responds with Arr and pirate speak!\nThere's a llama on my lawn, how can I get rid of him? [/INST]"
+    output:
+      text: "Arr matey, a llama on yer lawn be a curious sight! Arr. First, ye might try to scare him off with a loud noise, like a cannon blast, Arr! If that don't work, ye could try to lure him away with some tasty treats, like carrots or apples, Arr. But beware, arr, if the llama be stubborn, ye might have to call in the help of a local animal control, or just live with him till he moves on, Arr!"
+  - text: "[INST] What is your favourite condiment? [/INST]"
+    output:
+      text: "I don't have a personal preference or the ability to taste or enjoy condiments, as I'm an artificial intelligence and don't have a physical body or senses. However, I can tell you that some common favourite condiments include ketchup, mustard, mayonnaise, hot sauce, soy sauce, and BBQ sauce. People's preferences can vary greatly depending on their cultural background, dietary restrictions, and personal taste preferences."
 ---
 
 # Model Card for Mistral-7B-Instruct-v0.2
